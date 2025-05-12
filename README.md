@@ -1,7 +1,9 @@
 # DJANGO Tutorial
 
 Activar el entorno virtual:
+
 `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process`
+
 `.\django\Scripts\activate`
 
 ### Tutorial Link
@@ -16,9 +18,6 @@ Activar el entorno virtual:
 
 `Django\djangotutorial> py manage.py test polls`
 
->[NOTE]
->Terminé la tercera parte del tutorial.
->Después, empezar desde la parte 4
 
 # Recuerde la guía de tres pasos para hacer cambios de modelo:
 
